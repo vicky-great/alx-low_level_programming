@@ -5,6 +5,8 @@
 /*
  * main - Determines if a number is positive, negative or zero.
  *
+ * Description: positive or negative if else in c
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
